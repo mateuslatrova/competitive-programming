@@ -1,4 +1,4 @@
-package hackerRank.trees;
+package hackerrank.trees;
 import java.util.*;
 
 public class LevelOrderTraversal {
