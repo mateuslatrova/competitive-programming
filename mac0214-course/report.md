@@ -20,8 +20,16 @@ Além disso, simulei o contest "Codeforces Round 883 (Div. 3)" na plataforma Cod
 
 Soma da carga horária nesse dia: 30min + 15min + 1h + 1h + 1h + 2h15 = 6h
 
-## Próximo dia...
+## 26/08/2023 - 1h30
 
-...
+Resolvi um problema sobre o tópico "Arrays". O nome do arquivo em que se encontra a solução segue abaixo:
 
-# Carga horária total: 6h
+- arrays/minimum_in_rotated_array.py: 1h30
+
+Depois de tentar resolver durante 1 hora(cheguei perto da solução, mas sem sucesso), assisti a um vídeo para entender a resolução e aplicá-la:
+
+- https://www.youtube.com/watch?v=nIVW4P8b1VA (12 minutos)
+
+Soma da carga horária nesse dia: 1h30min
+
+# Carga horária total: 7h30min
