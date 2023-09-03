@@ -49,6 +49,23 @@ Para estes três últimos, depois de tentar resolver durante 30 minutos(sem suce
 - https://www.youtube.com/watch?v=gVUrDV4tZfY
 - https://www.youtube.com/watch?v=U8XENwh8Oy8
 
-Soma da carga horária nesse dia: 15min + 10min + 15min + 1h + 1h15 + 1h = 3h55min
+## 02/09/2023 - 3h15min
 
-# Carga horária total: 11h25min
+Simulei o contest "Codeforces Round 894 (Div. 3)" na plataforma CodeForces(2h15min). Consegui resolver dois problemas, e escrevi uma solução que recebeu TLE (Time Limite Exceeded), que foi a do problema C. O código dos problemas resolvidos se encontra na pasta "codeforces/894".
+
+Depois, fiz o upsolving da questão C (1h).
+
+Soma da carga horária nesse dia: 2h15min +  1h = 3h15min
+
+## 03/09/2023 - 2h30min
+Resolvi cinco problemas sobre o tópicos "Strings", "Dynamic Programming" e "Linked Lists".
+
+- strings/palindrome.py: 30min
+- strings/anagram.py: 20min
+- dp/climb_stairs.py: 30min
+- dp/house_robber.py : 45min
+- linked_lists.reverse.py: 25min
+
+Soma da carga horária nesse dia:  30min + 20min + 30min + 45min + 25min = 2h30min
+
+# Carga horária total: 17h10min
