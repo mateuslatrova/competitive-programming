@@ -64,8 +64,24 @@ Resolvi cinco problemas sobre o tópicos "Strings", "Dynamic Programming" e "Lin
 - strings/anagram.py: 20min
 - dp/climb_stairs.py: 30min
 - dp/house_robber.py : 45min
-- linked_lists.reverse.py: 25min
+- linked_lists/reverse.py: 25min
 
 Soma da carga horária nesse dia:  30min + 20min + 30min + 45min + 25min = 2h30min
 
-# Carga horária total: 17h10min
+## 16/09/2023 - 2h15min
+
+Simulei o contest "Codeforces Round 895 (Div. 3)" na plataforma CodeForces(2h15min). Consegui resolver dois problemas, e escrevi duas soluções que receberam TLE (Time Limite Exceeded), que foram as dos problemas C e D. O código dos problemas resolvidos se encontra na pasta "codeforces/895".
+
+Soma da carga horária nesse dia: 2h15min = 2h15min
+
+## 17/09/2023 - 3h15min
+Resolvi 4 problemas sobre os tópicos "Strings" e "Linked Lists".
+
+- linked_lists/merge.py: 1h15min
+- linked_lists/cycle.py: 15min
+- linked_lists/remove_nth.py: 45min
+- strings/valid_parenthesis.py : 1h
+
+Soma da carga horária nesse dia: 1h15min + 15min + 45min + 1h = 3h15min
+
+# Carga horária total: 22h40min
