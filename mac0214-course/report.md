@@ -84,4 +84,15 @@ Resolvi 4 problemas sobre os tópicos "Strings" e "Linked Lists".
 
 Soma da carga horária nesse dia: 1h15min + 15min + 45min + 1h = 3h15min
 
-# Carga horária total: 22h40min
+## 23/09/2023 - 5h30min
+Resolvi 5 problemas sobre os tópicos "Strings", "Linked Lists" e "Trees":
+
+- linked_lists/reorder_list.py: 1h15min
+- strings/char_replacement.py: 2h30min
+- strings/group_anagrams.py: 30min
+- tree/max_depth.py: 45min
+- tree/same_tree.py: 30min
+
+Soma da carga horária nesse dia: 1h15min + 2h30min + 30min+  45min + 30min = 5h30min
+
+# Carga horária total: 28h10min
