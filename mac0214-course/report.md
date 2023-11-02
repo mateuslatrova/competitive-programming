@@ -95,4 +95,51 @@ Resolvi 5 problemas sobre os tópicos "Strings", "Linked Lists" e "Trees":
 
 Soma da carga horária nesse dia: 1h15min + 2h30min + 30min+  45min + 30min = 5h30min
 
-# Carga horária total: 28h10min
+
+## 30/09/2023 - 4h40min
+
+Resolvi 4 problemas com temas gerais do site HackerRank:
+
+- general/salesByMatch.cpp: 20min
+- general/countingValleys.cpp: 1h30
+- general/jumpingOnTheClouds.cpp: 50min
+- general/repeatedString.cpp: 2h
+
+## 07/10/2023 - 6h40min
+
+Resolvi 3 problemas do tema "Arrays" do site HackerRank:
+
+- arrays/2DArray.cpp: 1h
+- arrays/leftRotation.cpp: 40min
+- arrays/minimumSwaps.cpp: 1h45min
+- arrays/BuySellStock.java: 1h30min
+- arrays/product_except_self.py: 1h45min
+
+## 14/10/2023 - 4h55min
+
+Resolvi 4 problemas do tema "Hash Tables" do site HackerRank:
+
+- hash_tables/ransomNote.cpp: 45min
+- hash_tables/twoStrings.cpp: 40min
+- hash_tables/anagrams.cpp: 1h30min
+- hash_tables/freqQueries.cpp: 2h
+
+## 21/10/2023 - 5h30min
+
+Resolvi 3 problemas do tema "Strings manipulation" do site HackerRank:
+
+- strings/makeAnagram.cpp: 1h10min
+- strings/alternatingChars.cpp: 1h30min
+- strings/sherlockValidString.cpp: 2h
+- strings/specialStrings.cpp: 50min
+
+## 28/10/2023 - 5h30min
+
+Resolvi 4 problemas do tema "Arrays" do site HackerRank:
+
+- tree/height.cpp: 30min
+- tree/LevelOrderTraversal.java: 1h45min
+- tree/SwapNodes.java: 2h
+- stacks/BalancedBrackets.java: 1h15min
+
+# Carga horária total: 55h25min
