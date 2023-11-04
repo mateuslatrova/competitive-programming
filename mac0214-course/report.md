@@ -142,4 +142,18 @@ Resolvi 4 problemas do tema "Arrays" do site HackerRank:
 - tree/SwapNodes.java: 2h
 - stacks/BalancedBrackets.java: 1h15min
 
-# Carga horária total: 55h25min
+## 04/11/2023 - 6h05min
+
+Simulei o contest "Codeforces Round 903 (Div. 3)" na plataforma CodeForces(2h15min). 
+
+Consegui resolver dois problemas, e escrevi a solução do problema C, porém faltou um pequeno conserto para que ela fosse aceita. O código dos problemas resolvidos se encontra na pasta "codeforces/894".
+
+Em seguida, fiz o upsolving de três questões: 
+
+- C (50min)
+- D (1h10min)
+- E (1h50min)
+
+Soma da carga horária nesse dia: 2h15min + 50min + 1h10min + 1h50min = 6h05min
+
+# Carga horária total: 61h30min
