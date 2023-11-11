@@ -156,4 +156,70 @@ Em seguida, fiz o upsolving de três questões:
 
 Soma da carga horária nesse dia: 2h15min + 50min + 1h10min + 1h50min = 6h05min
 
-# Carga horária total: 61h30min
+## 06/11/2023 - 6h30min
+
+Resolvi 4 problemas sobre o tópico "Trees":
+
+- tree/validate_bst.py: 1h
+- tree/add_and_search_words.py: 2h30min
+- tree/kth_smallest.py: 45min
+- tree/maxpathsum.py: 2h15min
+
+Soma da carga horária nesse dia: 1h + 2h30min + 45min + 2h15 = 6h30min
+
+## 07/11/2023 - 7h35min
+Resolvi 5 problemas sobre os tópicos "Trees" e "Dynamic Programming":
+
+- tree/trie.py: 1h30min
+- tree/serialization.py: 2h25min
+- dp/house_robber_2.py: 50min
+- dp/coin_change.py: 1h10min
+- dp/jump_game.py: 1h40min
+
+Soma da carga horária nesse dia: 1h30min + 2h25min + 50min + 1h10min + 1h40min = 7h35min
+
+## 08/11/2023 - 6h35min
+Resolvi 5 problemas sobre os tópicos "Arrays", "Strings", e "Trees":
+
+- arrays/three_sum.py: 2h05min
+- strings/longest_palindromic_substring.py: 1h45min
+- strings/palindromic_substrings.py: 25min
+- strings/repeating_characters.py: 50min
+- tree/build_from_preorder_inorder.py: 1h30min
+
+Soma da carga horária nesse dia: 2h05min + 1h45min + 25min + 50min + 1h30min = 6h35min
+
+## 09/11/2023 - 6h15min
+
+Resolvi 4 problemas sobre os tópicos "Trees" e "Dynamic Programming":
+
+- tree/word_search_2.py: 2h50min
+- dp/word_break: 1h10min
+- dp/lis.py: 1h25min
+- dp/lcs.py: 2h
+
+Soma da carga horária nesse dia: 2h50min + 1h10min + 1h25min + 2h = 6h15min
+
+## 10/11/2023 - 5h35min
+
+Resolvi 4 problemas sobre os tópicos "Dynamic Programming" e "Graphs":
+
+- dp/combination_sum.py: 1h15min
+- dp/decode_ways.py: 1h45min
+- graph/clone.py: 35min
+- graph/course_schedule: 1h40min
+
+Soma da carga horária nesse dia: 1h15min + 1h45min + 35min + 1h40min = 5h35min
+
+## 11/11/2023 - 7h
+
+Resolvi 4 problemas sobre os tópicos "Graphs", "Matrix" e "Interval":
+
+- graph/pacific_atlantic.py: 2h30min
+- graph/number_of_islands.py: 1h20min
+- matrix/word_search.py: 1h40min
+- interval/merge.py: 1h30min
+
+Soma da carga horária nesse dia: 2h30min + 1h20min+  1h40min + 1h30min = 7h
+
+# Carga horária total: 101h
